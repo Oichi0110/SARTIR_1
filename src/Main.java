@@ -30,5 +30,7 @@ public class Main {
         System.out.println(analyst.createBusinessModel());
         analyst.endShift();
         System.out.println("Position: " + analyst.getPosition());
+
+        System.out.println("IM GAY IM GAY");
     }
 }
